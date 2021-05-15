@@ -1,0 +1,1 @@
+{"otherData": {},"traceEvents":[{"cat":"function","dur":1454997,"name":"void loopAndPrint(int)","ph":"X","pid":0,"tid":1753268367,"ts":1621081272899572},{"cat":"function","dur":1504000,"name":"void loopSquareRootAndPrint(int)","ph":"X","pid":0,"tid":1753268367,"ts":1621081274354569}]}
