@@ -13,7 +13,7 @@ struct Vector2 {
   bool operator==(const Vector2& v) const { return x == v.x && y == v.y; }
   bool operator!=(const Vector2& v) const { return x != v.x || y != v.y; }
 };
-
+  
 std::ostream& operator<<(std::ostream& stream, const Vector2& v) {
   stream << v.x << ", " << v.y;
 }
